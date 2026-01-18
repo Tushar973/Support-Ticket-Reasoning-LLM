@@ -6,3 +6,5 @@ bitsandbytes
 trl
 accelerate
 scikit-learn
+fastapi
+uvicorn
