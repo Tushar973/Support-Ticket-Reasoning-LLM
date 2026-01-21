@@ -8,3 +8,5 @@ accelerate
 scikit-learn
 fastapi
 uvicorn
+groq
+python-dotenv
